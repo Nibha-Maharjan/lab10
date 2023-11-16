@@ -30,3 +30,4 @@ curl -X POST -H "Content-Type: application/json" --data '{ "name": "Tim Tom", "r
 # call /protected endpoint with the token obtained during registration
 curl -v -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiVGltIFRvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTY4OTYwMDI3OH0.w0hg6GYrvJqO2x7MBDvVbKqAXTH4Tdbs17ti3mNiPOU" http://127.0.0.1:3000/protected
 # lab10
+# lab10
